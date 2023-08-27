@@ -1,0 +1,18 @@
+{
+	"name": "ChukyHood",
+    "author": "chuky (Actualizada al 27-05-2023)",
+    "image": "https://i.ibb.co/RbqRNzW/Chuky-Hood.jpg",
+    "url": "https://pastebin.com/vKDwjQwQ",
+    "groups": [{
+		"name": "Prueba",
+		"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4YX0ZbN-jXAf7kntXlTaeZjWwyS-O1lIBQ&usqp=CAU",
+		"info": "",
+		"stations": [{
+			"name": "⚽ (Prueba 1)",
+			"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRf4YX0ZbN-jXAf7kntXlTaeZjWwyS-O1lIBQ&usqp=CAU",
+			     "url" :  "https://bydfjg2.elverruca.store/05.php",
+		"referer" : "https://bydfjg2.elverruca.store/ch05.php",
+			 "isHost":"true"
+                  }]   
+              }]    
+}
